@@ -1,2 +1,2 @@
 # RacunalnaForenzika
-labovi za racunalnu forenziku
+Izvjestaji labova racunalne forenzike
